@@ -1,2 +1,2 @@
-# blockchain2022
-Repository for Blockchain related develpments
+# Client server messaging 
+Communication between a server and multiple client
